@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* Throwing errors when I'm running 'rake db:seed'
+* Tested API in Postman. Seeded correctly. API now able to: Create, Read, Delete posts
